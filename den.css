@@ -1,14 +1,14 @@
 
-a[href$="279278"] .cave-grid img {
+a[href$="cave.php?id=279278"] .cave-grid img {
   content: url('https://i.ibb.co/p6vz2kGx/feastintheshade.png') !important;
 }
 
 
-a[href$="53213"] .cave-grid img {
+a[href$="cave.php?id=53213"] .cave-grid img {
   content: url('https://i.ibb.co/Vc4km0fB/ounianga.png') !important;
 }
 
 
-a[href$="342182"] .cave-grid img {
+a[href$="cave.php?id=342182"] .cave-grid img {
   content: url('https://i.ibb.co/FvWj0Xt/Nama-Karoo.png') !important;
 }
