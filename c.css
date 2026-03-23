@@ -1,0 +1,6 @@
+.lionImage.featured-lion img {
+  content: url("https://i.ibb.co/p6vz2kGx/feastintheshade.png");
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
